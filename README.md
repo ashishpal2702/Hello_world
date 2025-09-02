@@ -1,2 +1,2 @@
 # Hello_world
-It is a Demo Repo
+It is a Python Demo Repo 
